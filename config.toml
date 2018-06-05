@@ -1,11 +1,11 @@
-baseURL = "https://joelweber.nl/"
+baseURL = "https://affectionate-hermann-938e8c.netlify.com/"
 languageCode = "en-us"
 title = "Joël's Blog"
 theme = "coder"
 
 [params] # theme parameters
     author = "Joël Weber" # author's name
-    info = "Computerexper" # author's job title or info
+    info = "Computerexpert" # author's job title or info
     description = "Joël zijn persoonlijke website" # site description
     keywords = "blog,developer,personal" # site keywords
 
