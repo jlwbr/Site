@@ -1,11 +1,9 @@
 ---
-title: "De reis in het bouwen van mijn site"
-date: 2018-06-04T21:29:58+02:00
+title: De reis in het bouwen van mijn site
+date: 2018-06-04T19:29:58.000Z
 draft: false
 slug: gitment-journey
-gitment: true
 ---
-
 Ik heb dit domein al een tijdje, heb er eigenlijk maar weinig me gedaan, vooral tests waar ik een domein voor nodig had. Al speelt het idee om hier een blog van te maken al sinds de aankoop. Dus dacht ik aan het begin van deze week, laat ik dat eens doen.
 
 De reis die me tot deze site heeft geleid is het verhaal voor deze post.
@@ -19,6 +17,7 @@ Gitment zag en gelikt uit, het gebruikt Github issues voor de comments en laat d
 {{< highlight javascript "linenos=table" >}}
 
 {{ if (.Params.gitment) }}
+
   <div id="git-comments"></div>
   <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
   <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
@@ -31,13 +30,10 @@ Gitment zag en gelikt uit, het gebruikt Github issues voor de comments en laat d
         client_id: 'jouw client id',
         client_secret: 'jouw client secret',
       },
-      // ...
-      // For more available options, check out the documentation below
     })
     gitment.render('git-comments')
   </script>
 {{ end }}
-
 
 {{< / highlight >}}
 
