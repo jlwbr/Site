@@ -35,8 +35,27 @@
 
   <br/>
 
+  {{ if (.Params.gitment) }}
+    <div id="git-comments"></div>
+    <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+    <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+    <script>
+      const gitment = new Gitment({
+        owner: '8288115',
+        repo: 'https://github.com/jlwbr/site',
+        oauth: {
+          client_id: '19b23e59480bac17c6e7',
+          client_secret: '0201264f90a044c4541803f2329126b653e2f0ee',
+        },
+        // ...
+        // For more available options, check out the documentation below
+      })
+      gitment.render('git-comments')
+    </script>
+  {{ end }}
+
   {{ if and (not (eq .Site.DisqusShortname "" )) (eq (.Params.disable_comments | default false) false)}}
       {{ template "_internal/disqus.html" . }}
   {{ end }}
-  
+
 </section>
