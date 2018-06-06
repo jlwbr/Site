@@ -16,5 +16,6 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - {label: "Comments", name: "gitment", widget: "boolean", default: true}
       - {label: "Slug", name: "slug", widget: "hidden", default: "{{slug}}"}
       - {label: "Body", name: "body", widget: "markdown"}
