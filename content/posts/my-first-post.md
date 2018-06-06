@@ -2,6 +2,7 @@
 title: De reis in het bouwen van mijn site
 date: 2018-06-04T19:29:58.000Z
 draft: false
+gitment: true
 slug: gitment-journey
 ---
 Ik heb dit domein al een tijdje, heb er eigenlijk maar weinig me gedaan, vooral tests waar ik een domein voor nodig had. Al speelt het idee om hier een blog van te maken al sinds de aankoop. Dus dacht ik aan het begin van deze week, laat ik dat eens doen.
