@@ -30,7 +30,7 @@ HUGO_VERSION = "0.41"
 HUGO_ENABLEGITINFO = "true"
 
 [[redirects]]
-  from = "/s/*"
-  to =  "shorturl.joelweber.nl/:splat"
-  status = 200
-  force = true
+from = "/s/*"
+to = "https://shorturl.joelweber.nl/:splat"
+status = 200
+force = false
