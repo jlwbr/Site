@@ -28,3 +28,9 @@ HUGO_VERSION = "0.41"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+[redirects]
+from = "/s/*"
+to =  "shorturl.joelweber.nl/:splat"
+status = 200
+force = true
