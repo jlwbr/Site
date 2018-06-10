@@ -32,5 +32,5 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
 from = "/s/*"
 to = "https://shorturl.joelweber.nl/:splat"
-status = 200
+status = 302
 force = false
