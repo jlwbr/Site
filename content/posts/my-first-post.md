@@ -42,4 +42,4 @@ Deze code zorgt ervoor dat gitment alleen wordt toegevoegd bij paginas die ook e
 
 Nu de hosting nog, dit was voor mij een no brainer, Netlify. Het lijkt alsof ik hier een beetje reclame zit maken voor ze, maar het is echt een geweldige service. Ze kunnen overweg met letterlijk elke static site generator en hebben verschillende services om je leven makkelijker te maken. Met een simpele [netlify.toml](https://github.com/jlwbr/Site/blob/master/netlify.toml) in de root dir weet netlify genoeg en bouwen ze je site voor je zonder enige moeite. Ook hebben ze gratis Letsencrypt Certs dus ssl is ook zo geregeld. Ik raad ze zeker aan.
 
-Zo dat was hem dan mijn eerste blog post. Ik hoop dat je er wat aan heb gehad, en mogen er vele volgen.
+Zo dat was hem dan. Mijn eerste blog post. Ik hoop dat je er wat aan heb gehad, en mogen er vele volgen.
