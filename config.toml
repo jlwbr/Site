@@ -5,7 +5,7 @@ theme = "coder"
 
 [params] # theme parameters
     author = "Joël Weber" # author's name
-    info = "Computerexpert" # author's job title or info
+    info = "" # author's job title or info
     description = "Joël zijn persoonlijke website" # site description
     keywords = "blog,developer,personal" # site keywords
 
