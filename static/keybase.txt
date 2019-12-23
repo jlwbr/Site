@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jlwbr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://joelweber.nl
+  * I am jlwbr (https://keybase.io/jlwbr) on keybase.
+  * I have a public key ASCBGNvFf73V1BXYzSiRmJKm17SffWP0GbTtwwIBmYzNNwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01208118dbc57fbdd5d415d8cd28919892a6d7b49f7d63f419b4edc30201998ccd370a",
+      "host": "keybase.io",
+      "kid": "01208118dbc57fbdd5d415d8cd28919892a6d7b49f7d63f419b4edc30201998ccd370a",
+      "uid": "d306ebba639ba81624e13a944c8dae19",
+      "username": "jlwbr"
+    },
+    "merkle_root": {
+      "ctime": 1577140457,
+      "hash": "142dceb127d18f6e1091ca4eefabdb4a1a53308f9d6cdaf43048addc685fe5e57471462f835a02f60e2c8c29112c7f1d4ea045e39c4da205d4f760b8c12595f8",
+      "hash_meta": "698764fe5259e910421fa56e78c23d767400e991fae1a3b7287cb4dee36d251f",
+      "seqno": 13924598
+    },
+    "service": {
+      "entropy": "AYIzKJypMvsMAWUMAKrkgzON",
+      "hostname": "joelweber.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1577140471,
+  "expire_in": 504576000,
+  "prev": "6d92e6077fcb5e968f96fa81d372831836611d74ca408c725e928db0c3d82e07",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggRjbxX+91dQV2M0okZiSpte0n31j9Bm07cMCAZmMzTcKp3BheWxvYWTESpcCBsQgbZLmB3/LXpaPlvqB03KDGDZhHXTKQIxyXpKNsMPYLgfEIDvVha9I6/ls1mw6I0hp/cUXw4X8ZjuD1F37dsIPXR1fAgHCo3NpZ8RAELCFauC2so/D4TKmlpvVlCpWS1ISjFxIaRdBHws63wTE2WP8WOqyGjM+btVE9QRD9w2tPQ9z9PQ9M6awIZAcCahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHhiIHP05CaMbEliXPmbanfiWANNcrNizo3xA1RzK7mno3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jlwbr
+
+==================================================================
