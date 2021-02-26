@@ -24,11 +24,11 @@ theme = "coder"
     url = "https://twitter.com/jlwbr"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
-[[menu.main]]
-    name = "Over"
-    weight = 2
-    url = "/over/"
+# [[menu.main]]
+#     name = "Blog"
+#     weight = 1
+#     url  = "/posts/"
+# [[menu.main]]
+#     name = "Over"
+#     weight = 2
+#     url = "/over/"
