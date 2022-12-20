@@ -34,3 +34,8 @@ from = "/s/*"
 to = "https://shorturl.joelweber.nl/:splat"
 status = 302
 force = false
+
+[[headers]]
+  for = "/.well-known/nostr.json"
+  [headers.values]
+    Access-Control-Allow-Origin = "*"
