@@ -36,7 +36,6 @@ status = 302
 force = false
 
 [[headers]]
-  for = "/.well-known/nostr.json"
+  for = "/.well-known/nostr.json*"
   [headers.values]
     Access-Control-Allow-Origin = "*"
-    Test = "true"
